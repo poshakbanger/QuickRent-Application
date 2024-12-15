@@ -69,3 +69,6 @@ Sign-Up: Allows new users to register.
 Features: Highlights platform features.
 Gadget Listing: Lists gadgets available for rent.
 Contact Us: Allows users to send queries.
+
+Here is a vercel link of the live project- 
+https://quick-rent-application.vercel.app/
